@@ -1,4 +1,4 @@
-# Covid-19-Dashboadr-Excel
+# Covid-19-Dashboard-Excel
 This is a brief Analysis of Covid-19 Dashboard Using Excel
 
 
